@@ -1,9 +1,5 @@
 # Golang, One Lab 13 поток
 
-#### Контакты
-- Email: tilvaldiyev@gmail.com
-- Telegram: @tilvaldiyev
-
 #### Структура
 
 | Урок | Тема |
